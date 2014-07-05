@@ -1,0 +1,9 @@
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\Лабораторная работа 8\glWinForm\bin\Release\glWinForm.exe
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\Лабораторная работа 8\glWinForm\bin\Release\glWinForm.pdb
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\Лабораторная работа 8\glWinForm\obj\Release\ResolveAssemblyReference.cache
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\Лабораторная работа 8\glWinForm\obj\Release\glWinForm.MainForm.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\Лабораторная работа 8\glWinForm\obj\Release\glWinForm.Properties.Resources.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\Лабораторная работа 8\glWinForm\obj\Release\OpenGL.ViewGL.resources
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\Лабораторная работа 8\glWinForm\obj\Release\glWinForm.csproj.GenerateResource.Cache
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\Лабораторная работа 8\glWinForm\obj\Release\glWinForm.exe
+D:\Anton\Лабы\Компьютерная графика 3 курс 1 семестр\Решения\Лабораторная работа 8\glWinForm\obj\Release\glWinForm.pdb
